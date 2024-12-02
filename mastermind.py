@@ -1,5 +1,5 @@
-#Franciesca dela Cruz & Ken Realingo
-#ES26 Machine Problem 1 - Mastermind
+#Ken Realingo
+#Mastermind
 
 # Import necessary libraries
 import random
